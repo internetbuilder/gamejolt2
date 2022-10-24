@@ -172,7 +172,7 @@
 		"axios": "0.19.2",
 		"client-voodoo": "2.5.3",
 		"fs-extra": "7.0.0",
-		"write-file-atomic": "2.3.0"
+		"write-file-atomic": "2.4.3"
 	},
 	"main": "chrome-extension://game-jolt-client/index.html#/",
 	"domain": "game-jolt-client",
