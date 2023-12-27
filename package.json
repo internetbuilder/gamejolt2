@@ -169,7 +169,7 @@
 		"appdmg": "0.5.2"
 	},
 	"dependencies": {
-		"axios": "0.19.2",
+		"axios": "1.6.3",
 		"client-voodoo": "2.5.3",
 		"fs-extra": "7.0.0",
 		"write-file-atomic": "2.3.0"
